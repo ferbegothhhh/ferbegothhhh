@@ -2,31 +2,31 @@
   Design read: developer profile page for technical peers.
   Style: brutalism (sharp corners, high contrast, mono identity).
   Dials: ENERGY 3 / RHYTHM 2 / MOTION 1.
-  Accent: green run #22c55e, used once as a dark-only identity strip.
-  All badges use contrast-safe green #15803d (white text >= 4.5:1).
+  Accent: green run #22c55e as dark-only identity motif; contrast-safe
+  green #15803d on light variants. All badge text >= 4.5:1.
 
-  TODO before publishing:
-  1. Put your real portfolio link in the Connect section once it is live.
+  TODO:
+  1. Upload assets/avatar.png as your GitHub profile picture.
+  2. Put your real portfolio link in the Connect section once it is live.
 -->
-
-```
- ████████████████████████████████████████████████████
- █                                                 █
- █   ferbegothhhh                                  █
- █   frontend · ui · code                          █
- █                                                 █
- ████████████████████████████████████████████████████
-```
-
-### Hi, I'm @ferbegothhhh
-
-Frontend developer. I build interfaces and care how they behave, not just how they look.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='4'><rect width='120' height='4' fill='%2322c55e'/></svg>">
-    <img alt="" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='4'><rect width='120' height='4' fill='%2315803d'/></svg>" style="height:4px">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="ferbegothhhh banner" src="assets/banner-light.svg" style="width:100%;max-width:760px;height:auto">
   </picture>
+</p>
+
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img alt="" src="assets/logo-light.svg" width="36" style="vertical-align:middle">
+  </picture>
+  &nbsp;Hi, I'm @ferbegothhhh
+</h3>
+
+<p align="center">
+  Frontend developer. I build interfaces and care how they behave, not just how they look.
 </p>
 
 ---
