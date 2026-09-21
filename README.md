@@ -6,7 +6,7 @@
   green #15803d on light variants. All badge text >= 4.5:1.
 
   TODO:
-  1. Upload assets/avatar.png as your GitHub profile picture.
+  1. Upload assets/profile.jpeg as your GitHub profile picture.
   2. Put your real portfolio link in the Connect section once it is live.
 -->
 
