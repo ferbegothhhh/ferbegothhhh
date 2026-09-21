@@ -1,10 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="ferbegothhhh banner">
+  <defs>
+    <clipPath id="typing-light-1">
+      <rect id="t1-light" x="88" y="80" width="640" height="70">
+        <animate attributeName="width" values="0;0;640;640;0;0" keyTimes="0;0.02;0.3;0.88;0.97;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typing-light-2">
+      <rect id="t2-light" x="90" y="156" width="560" height="40">
+        <animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.32;0.6;0.88;0.97;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
   <rect width="1200" height="260" fill="#FAFAFA"/>
   <rect width="1200" height="5" fill="#15803d"/>
-  <text x="88" y="138" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="bold" fill="#15803d">$</text>
-  <text x="128" y="138" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="bold" fill="#09090B" letter-spacing="2">ferbegothhhh</text>
-  <text x="90" y="186" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#475569" letter-spacing="6">frontend · ui · code</text>
-  <rect x="90" y="212" width="84" height="6" fill="#15803d"/>
   <rect x="1110" y="0" width="90" height="36" fill="#15803d"/>
-  <text x="1124" y="24" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#FFFFFF">dev</text>
+  <text x="1124" y="24" font-family="Cascadia Mono, Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#FFFFFF">dev</text>
+
+  <g clip-path="url(#typing-light-1)">
+    <text x="88" y="138" font-family="Cascadia Mono, Consolas, 'Courier New', monospace" font-size="52" font-weight="bold" fill="#15803d">$</text>
+    <text x="128" y="138" font-family="Cascadia Mono, Consolas, 'Courier New', monospace" font-size="52" font-weight="bold" fill="#09090B" letter-spacing="2">ferbegothhhh</text>
+  </g>
+
+  <g clip-path="url(#typing-light-2)">
+    <text x="90" y="186" font-family="Cascadia Mono, Consolas, 'Courier New', monospace" font-size="24" fill="#475569" letter-spacing="6">frontend · ui · code</text>
+  </g>
+
+  <rect x="500" y="92" width="26" height="56" fill="#15803d">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.9;0.93;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="90" y="212" width="84" height="6" fill="#15803d"/>
 </svg>
