@@ -4,9 +4,8 @@
   Accent color #3fb950 (GitHub green) kept for the identity motif only.
 
   TODO before publishing:
-  1. Replace [Your Name] and [Your Status] in the intro.
-  2. Put your real Instagram handle and website URL in the Connect section.
-  3. Fill in your featured projects below.
+  1. Put your real Instagram handle and website URL in the Connect section
+     once the portfolio is live.
 -->
 
 ```
@@ -18,9 +17,9 @@
  ████████████████████████████████████████████████████
 ```
 
-### Hi, I'm [Your Name]
+### Hi, I'm @ferbegothhhh
 
-[Your Status]. I build things with Python, PHP and the web, and I care how they look.
+Frontend developer. I build things with Python, PHP and the web, and I care how they look.
 
 ### Stack
 
@@ -36,9 +35,10 @@
 
 ### Featured projects
 
-*coming soon - a list of what I am building lands here*
+- [Galery](https://github.com/ferbegothhhh/Galery) - CSS project
+- [mhyow](https://github.com/ferbegothhhh/mhyow) - TypeScript project
+- more on the way
 
 ### Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=aboutdotme&logoColor=white)](https://your-site.example)
+Portfolio in progress, I will link it here once it is live.
