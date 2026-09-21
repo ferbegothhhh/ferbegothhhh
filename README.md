@@ -33,12 +33,12 @@
 
 ### STACK
 
-[![Frontend](https://img.shields.io/badge/Frontend-15803d?style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn_web_development)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Frontend](https://img.shields.io/badge/Frontend-15803d?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn_web_development)
+[![JavaScript](https://img.shields.io/badge/JavaScript-15803d?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-15803d?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-15803d?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-15803d?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Figma](https://img.shields.io/badge/Figma-15803d?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
 
